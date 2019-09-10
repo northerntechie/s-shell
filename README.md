@@ -1,3 +1,5 @@
 # S-Shell decision shell
 
-S-Shell is a decision solver using the Lisp language.
+A simple shell (s-shell) for parsing an expert shell Lisp
+grammar and running an inference engine to find a solution
+using production rules and initial variable bindings.

@@ -1,4 +1,3 @@
-;;;; COMP456
 ;;;; A simple shell for parsing an expert shell Lisp grammar
 
 ;;;; The following symbols represent built-in functions

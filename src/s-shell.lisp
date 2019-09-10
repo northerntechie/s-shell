@@ -1,7 +1,5 @@
-;;;; COMP456 - Project
-;;;; Student: Todd Saharchuk
-;;;; Student No.: 2621180
 ;;;; Date: 2018-06-19
+;;;; Author: Todd Saharchuk
 ;;;;
 ;;;; A simple shell (s-shell) for parsing an expert shell Lisp
 ;;;; grammar and running an inference engine to find a solution
